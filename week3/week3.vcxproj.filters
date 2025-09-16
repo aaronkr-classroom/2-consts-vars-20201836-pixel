@@ -20,3 +20,23 @@
     </ClCompile>
     <ClCompile Include="money.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calc_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nums.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GG.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
