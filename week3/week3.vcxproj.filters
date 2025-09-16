@@ -30,7 +30,10 @@
     <ClCompile Include="nums.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="GG.c">
+    <ClCompile Include=".c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bokli.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
